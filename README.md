@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   
-![logo](./public/logo.png)
+![logo](./public/logo.svg)
   <br>
   
 
