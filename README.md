@@ -9,7 +9,7 @@
   <br>
 </h1>
 
-<h4 align="center">' Pachanga 'is a <strong>random team generator</strong> developed with in React and using Tailwind CSS and React-Transition-Group. 
+<h4 align="center">' <a href='https://pachanga-teams.netlify.app'> Pachanga </a> 'is a <strong>random team generator</strong> developed with in React and using Tailwind CSS and React-Transition-Group. 
 It is a project made for learning purposes and development practice.  </h4>
 
 <p align="center">
@@ -22,7 +22,7 @@ It is a project made for learning purposes and development practice.  </h4>
 
 ## Getting Started
 
-Only use the app in   and enter the three data entries: number of players per team, teams and the names of players.
+Only use the app in [link](https://pachanga-teams.netlify.app)   and enter the three data entries: number of players per team, teams and the names of players.
 You'll receive the list of the teams.
 
 ## Contributing
